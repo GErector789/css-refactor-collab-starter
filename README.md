@@ -2,7 +2,7 @@
 
 ## Team Members
 
-- [Ethan Recor](https://github.com/sakovdaniil628862712342434324/)
+- [Ethan Recor](https://github.com/GErector789)
 - [Autum Darrell](https://github.com/BreezyAutum)
 - [Ashlyn Knox](https://github.com/ashx3s/)
 - [Brennan Carrier](https://github.com/brennancarrier)
