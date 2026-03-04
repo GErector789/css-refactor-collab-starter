@@ -5,7 +5,6 @@
 - [Ethan Recor](https://github.com/sakovdaniil628862712342434324/)
 - [Seth Vanderlinde](https://github.com/SethVanderlinde)
 - [Loret Talay](https://github.com/ashx3s/)
-- [Brennan Carrier](https://github.com/brennancarrier)
 ---
 
 > Git commands documentation is avaliable here: [link](https://www.youtube.com/watch?app=desktop&v=dQw4w9WgXcQ)
