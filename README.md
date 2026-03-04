@@ -4,7 +4,7 @@
 
 - [Ethan Recor](https://github.com/GErector789)
 - [Autum Darrell](https://github.com/BreezyAutum)
-- [Ashlyn Knox](https://github.com/ashx3s/)
+- [Loret Talay](https://github.com/ashx3s/)
 - [Brennan Carrier](https://github.com/brennancarrier)
 ---
 
