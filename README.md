@@ -5,7 +5,7 @@
 - [Daniil Sakov](https://github.com/sakovdaniil628862712342434324/)
 - [Autum Darrell](https://github.com/BreezyAutum)
 - [Ashlyn Knox](https://github.com/ashx3s/)
-
+- [Brennan Carrier](https://github.com/brennancarrier)
 ---
 
 ## Lab Instructions
