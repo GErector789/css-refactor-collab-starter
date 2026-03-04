@@ -4,7 +4,7 @@
 
 - [Ethan Recor](https://github.com/sakovdaniil628862712342434324/)
 - [Seth Vanderlinde](https://github.com/SethVanderlinde)
-- [Ashlyn Knox](https://github.com/ashx3s/)
+- [Loret Talay](https://github.com/ashx3s/)
 - [Brennan Carrier](https://github.com/brennancarrier)
 ---
 
